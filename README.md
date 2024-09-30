@@ -1,2 +1,2 @@
 # NLP-Telugu
-developped a nlp procedure to predict next word in telugu sentences
+developed a nlp procedure to predict next word in telugu sentences
